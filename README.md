@@ -1,2 +1,2 @@
-# CubosAcademy-BackEnd
-Repositório criado para as aulas do curso de back-end da Cubos Academy, já em complementação com a primeira atividade de criar um novo repositório no GitHub e interagir com as ferramentas Git e Vs Code.
+# Cubos Academy Back-End
+Repositório de organização de estudos e conteúdos do curso da Cubos Academy com foco em back-end na linguagem JavaScript.
