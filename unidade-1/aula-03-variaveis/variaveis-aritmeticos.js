@@ -4,13 +4,13 @@
 let x = 10, y = 2;
 
 let resultado = x + y;
-console.log(`A soma é ${resultado}`);
+console.log(`A soma de 10 e 2 é ${resultado}`);
 
 resultado = x - y;
-console.log(`A subtração é ${resultado}`);
+console.log(`A subtração de 10 e 2 é ${resultado}`);
 
 resultado = x * y;
-console.log(`A multiplicação é ${resultado}`);
+console.log(`A multiplicação de 10 e 2 é ${resultado}`);
 
 resultado = x / y;
-console.log(`A divisão é ${resultado}`);
+console.log(`A divisão de 10 e 2 7 é ${resultado}`);
