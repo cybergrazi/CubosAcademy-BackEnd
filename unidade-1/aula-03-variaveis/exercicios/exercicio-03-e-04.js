@@ -1,4 +1,4 @@
-// Com base na aula variaveis-aritmeticos e variaveis-concatenacao, imprimir juntamente com texto.
+// Com base na aula variaveis-aritmeticos e variaveis-concatenacao, imprimir juntamente com texto, usando String Template.
 
 let x = 10, y = 2;
 
