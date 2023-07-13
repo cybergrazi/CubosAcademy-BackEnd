@@ -1,0 +1,19 @@
+// Apresentação de mais alguns operadores aritméticos.
+
+let x = 12;
+
+//x = x + 3;
+x += 3; //15
+console.log(x);
+
+//x = x - 1;
+x -= 1; //14
+console.log(x);
+
+//x = x * 3; 
+x *= 3; //42
+console.log(x);
+
+//x = x / 2;
+x /= 2; //21
+console.log(x);
