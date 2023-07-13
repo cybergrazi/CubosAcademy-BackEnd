@@ -1,0 +1,16 @@
+// Como realizar contas de raiz quadrada e potenciação.
+
+//Raiz quadrada
+let raiz = Math.sqrt(9);
+console.log(raiz);
+
+let raizNaN = Math.sqrt(-1); //Não existe
+console.log(raizNaN);
+
+//Potenciação
+let potencia = Math.pow(2, 3); //Primeiro parâmetro base, segundo expoente
+console.log(potencia);
+
+//Outra forma de realizar operações de potenciação
+let potencia2 = 2 ** 3;
+console.log(potencia2);
