@@ -1,4 +1,4 @@
-// Na compra de um determinado produto, o cliente consegue um desconto de 10% 
+// Exercício 1: Na compra de um determinado produto, o cliente consegue um desconto de 10% 
 // caso pague a vista. Caso queira parcelar, a loja parcela em até 6x sem juros
 // mas sem desconto. Imprimir uma mensagem explicando como o cliente tem que 
 // pagar, incluindo o valor da parcela.
@@ -14,5 +14,5 @@ if (numeroDeParcelas === 1) {
 } else {
     // parcelado
     const parcela = valorDaCompra / numeroDeParcelas;
-    console.log(`Você deve pagar ${parcela} reais em ${numeroDeParcelas} vezes.`);
+    console.log(`Você deve pagar ${parcela.toFixed(2)} reais em ${numeroDeParcelas} vezes.`);
 }
