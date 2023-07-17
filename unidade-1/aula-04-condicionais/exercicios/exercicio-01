@@ -1,0 +1,18 @@
+// Na compra de um determinado produto, o cliente consegue um desconto de 10% 
+// caso pague a vista. Caso queira parcelar, a loja parcela em até 6x sem juros
+// mas sem desconto. Imprimir uma mensagem explicando como o cliente tem que 
+// pagar, incluindo o valor da parcela.
+
+const valorDaCompra = 100;
+const numeroDeParcelas = 6;
+
+if (numeroDeParcelas === 1) {
+    // a vista - com 10% de desconto
+    const desconto = valorDaCompra * 0.1;
+    const valorPagar = valorDaCompra - desconto;
+    console.log(`Você deve pagar ${valorPagar} reais à vista com 10% de desconto.`);
+} else {
+    // parcelado
+    const parcela = valorDaCompra / numeroDeParcelas;
+    console.log(`Você deve pagar ${parcela} reais em ${numeroDeParcelas} vezes.`);
+}
