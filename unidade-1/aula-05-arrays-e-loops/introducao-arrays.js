@@ -15,3 +15,8 @@ console.log(nomeEstudantes[3]);
 console.log(nomeEstudantes[4]);
 console.log(nomeEstudantes[5]); //undefined
 console.log(notaEstudantes);
+
+// alterando o conteúdo do array:
+
+nomeEstudantes[1] = "Larisa";
+console.log(nomeEstudantes[1]);
