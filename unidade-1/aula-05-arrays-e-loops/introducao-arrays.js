@@ -20,11 +20,3 @@ console.log(notaEstudantes);
 
 nomeEstudantes[1] = "Larisa";
 console.log(nomeEstudantes[1]);
-
-// verificando o tamanho do array
-
-console.log(nomeEstudantes.length); // lenght = propriedade deste array referente ao tamanho
-
-nomeEstudantes[nomeEstudantes.length] = "Patricia";
-// incrementando mais um valor para o array. Essa é a forma mais recomendada pois sempre estará no final.
-console.log(nomeEstudantes); 
