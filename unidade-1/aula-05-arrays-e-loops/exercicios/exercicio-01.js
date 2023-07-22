@@ -24,7 +24,7 @@ console.log(paises);
 
 // imprimir o último país da lista
 // const ultimo = paises[paises.lenght -1];
-console.log(paises.pop());
+console.log(paises.pop()); //neste caso, removeu da lista e imprimiu.
 
 // imprimir o segundo país da lista 
 console.log(paises[1]);
