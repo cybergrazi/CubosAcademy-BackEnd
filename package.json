@@ -1,0 +1,13 @@
+{
+  "name": "cubosacademy-backend",
+  "version": "1.0.0",
+  "description": "Repositório de organização de estudos e conteúdos do curso da Cubos Academy com foco em back-end na linguagem JavaScript.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
